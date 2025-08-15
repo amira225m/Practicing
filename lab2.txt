@@ -1,3 +1,5 @@
 Amira Maged Farhat
 15-8-2025
 Adding feature
+Adding languages
+Adding colors
