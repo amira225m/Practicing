@@ -3,4 +3,3 @@ Amira Maged Farhat
 Adding feature
 Adding languages
 Adding colors
-revert example
